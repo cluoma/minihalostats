@@ -2,10 +2,11 @@
 A Halo stats applet for Cinnamon
 
 ## Installation
+```
 git clone https://github.com/cluoma/minihalostats
 cd minihalostats
 mv halo-stats@cluoma.com ~/.local/share/cinnamon/applets/
-
+```
 Then navigate to the 'Applets' section of the settings manager and add 'Halo Stats' to your taskbar.
 
 ## Configuration
