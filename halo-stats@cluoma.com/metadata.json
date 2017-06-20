@@ -1,0 +1,7 @@
+{
+    "description": "View Halo 5 statistics",
+    "max-instances": -1,
+    "dangerous": false,
+    "uuid": "halo-stats@cluoma.com",
+    "name": "Halo Stats"
+}

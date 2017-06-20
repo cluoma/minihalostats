@@ -1,0 +1,32 @@
+{
+    "section1": {
+        "type": "section",
+        "description" : "Settings"
+    },
+    "api-key" : {
+        "type" : "entry",
+        "default" : "xxxxxxxx",
+        "description" : "Halo API Key",
+        "indent": true,
+        "tooltip" : "Enter your 343 Halo API key here"
+    },
+    "gamertag" : {
+        "type" : "entry",
+        "default" : "snakebitefps",
+        "description" : "Gamertag",
+        "indent": true,
+        "tooltip" : "Enter your Xbox Live Gamertag here"
+    },
+    "arena-playlist": {
+        "type": "combobox",
+        "default": "5c9808b0-03a3-4577-b966-7217f9dda52d",
+        "options": {
+            "Team Arena": "c98949ae-60a8-43dc-85d7-0feb0b92e719",
+            "Slayer": "892189e9-d712-4bdb-afa7-1ccab43fbed4",
+            "SWAT": "2323b76a-db98-4e03-aa37-e171cfbdd1a4",
+            "HCS Summer": "5c9808b0-03a3-4577-b966-7217f9dda52d"
+        },
+        "description": "Arena Playlist",
+        "tooltip": "Choose which arena playlist to view stats for"
+    }
+}
