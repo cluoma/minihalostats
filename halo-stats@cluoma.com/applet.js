@@ -188,7 +188,7 @@ MyApplet.prototype = {
             } else {
                 this._csrSummary.text = String(this._csrSummary.text + "\n" + this._csrPercToNextTier + "% to next Tier");
             }
-            this._csrSummary.text = String(this._csrSummary.text + "\n Top " + this._csrPercentile + "% of players\n");
+            this._csrSummary.text = String(this._csrSummary.text + "\nTop " + this._csrPercentile + "% of players\n");
 
             // // Games
             this._arenaStatsSummary.text = String("Matches\n");
