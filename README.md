@@ -1,5 +1,5 @@
 # minihalostats
-A Halo stats applet for Cinnamon
+A Halo stats applet for Cinnamon    
 ![Halo Stats Screenshot](https://raw.githubusercontent.com/cluoma/minihalostats/master/ss.png)
 
 ## Installation
